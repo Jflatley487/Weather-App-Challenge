@@ -1,5 +1,5 @@
 * {
-    margin: 30px;
+   margin-left: 5px;
 }
 
 h1 {
@@ -8,19 +8,12 @@ h1 {
     justify-content: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
-    padding: 1rem;
+   
     background-image: linear-gradient(to right, blue, black);
 }
 
-#search-btn {
-    padding: none;
-}
-
-.search-input {
-    display:flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    padding: none;
+#exampleInputName2 {
+ width: 35%;
 }
 
 .search-column {
